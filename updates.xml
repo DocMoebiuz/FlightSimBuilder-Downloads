@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+  <item version="1.2.1.0">
+    <title>FSBLauncher 1.2.1 released!</title>
+    <version>1.2.1</version>
+    <url>https://github.com/DocMoebiuz/FsbLauncher-Downloads/releases/1.2.1/MobiFlightConnector-.zip</url>
+    <changelog>https://www.mobiflight.com/en/download.html#Release_Notes</changelog>
+    <checksum algorithm="SHA1">D2DDCCBB99B4616C752A68E62EFC50306DDF7AD7</checksum>
+    <beta>no</beta>
+  </item>
+</updates>
