@@ -5,7 +5,7 @@
     <version>1.2.1</version>
     <url>https://github.com/DocMoebiuz/FlightSimBuilder-Downloads/raw/main/releases/1.2.1/FSBLauncher-Setup.exe</url>
     <changelog>https://www.mobiflight.com/en/download.html#Release_Notes</changelog>
-    <checksum algorithm="SHA1">382E123BF2F7366BD00119F45114B331B1FEE48F</checksum>
+    <checksum algorithm="SHA1">0EB8341291B49B90B90598E09DE5FDFB2670124C</checksum>
     <beta>no</beta>
   </item>
 </updates>
