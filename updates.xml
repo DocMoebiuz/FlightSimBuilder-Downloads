@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
-  <item version="1.2.3.0">
-    <title>FSBLauncher 1.2.3 released!</title>
-    <version>1.2.3</version>
+  <item version="1.2.4.0">
+    <title>FSBLauncher 1.2.4 released!</title>
+    <version>1.2.4</version>
     <url>https://github.com/DocMoebiuz/FlightSimBuilder-Downloads/raw/main/releases/1.2.3/FSBLauncher-Setup.exe</url>
     <changelog>https://www.mobiflight.com/en/download.html#Release_Notes</changelog>
     <checksum algorithm="SHA1">9323853FDE2FB0E0A22886436B3DF39F8AE31F6D</checksum>
