@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
-  <item version="1.8.0.0">
-    <title>FSBLauncher 1.8.0 released!</title>
-    <version>1.8.0</version>
-    <url>https://github.com/DocMoebiuz/FlightSimBuilder-Downloads/raw/main/releases/1.8.0/FSBLauncher-Setup.exe</url>
+  <item version="1.8.1.0">
+    <title>FSBLauncher 1.8.1 released!</title>
+    <version>1.8.1</version>
+    <url>https://github.com/DocMoebiuz/FlightSimBuilder-Downloads/raw/main/releases/1.8.1/FSBLauncher-Setup.exe</url>
     <changelog>https://www.mobiflight.com/en/download.html#Release_Notes</changelog>
-    <checksum algorithm="SHA1">27686A20E7CE8ADD4B04A146BB779F78336BD5D9</checksum>
+    <checksum algorithm="SHA1">6602BD6FC23C25D808E0623B5FD71FAC678EBBE4</checksum>
     <beta>no</beta>
   </item>
 </updates>
