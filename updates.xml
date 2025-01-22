@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
-  <item version="1.14.2.0">
-    <title>FSBLauncher 1.14.2 released!</title>
-    <version>1.14.2</version>
-    <url>https://github.com/DocMoebiuz/FlightSimBuilder-Downloads/raw/main/releases/1.14.2/FSBLauncher-Setup.exe</url>
-    <changelog>https://github.com/flightsimbuilder/Flightsimbuilder/releases/tag/1.14.2</changelog>
-    <checksum algorithm="SHA1">FFF3DDD45A1ECAFFC05DA18F892C0621E9172CA5</checksum>
+  <item version="1.14.3.0">
+    <title>FSBLauncher 1.14.3 released!</title>
+    <version>1.14.3</version>
+    <url>https://github.com/DocMoebiuz/FlightSimBuilder-Downloads/raw/main/releases/1.14.3/FSBLauncher-Setup.exe</url>
+    <changelog>https://github.com/flightsimbuilder/Flightsimbuilder/releases/tag/1.14.3</changelog>
+    <checksum algorithm="SHA1">394B5D0637E540FEEF54E10A6D71F6C7C9E34E1E</checksum>
     <beta>no</beta>
   </item>
 </updates>
