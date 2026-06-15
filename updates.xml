@@ -8,12 +8,12 @@
     <checksum algorithm="SHA1">154158D0F998698BE67DFBC43FD20C453A5A1BC0</checksum>
     <beta>yes</beta>
   </item>
-  <item version="1.29.0.0">
-    <title>FSBLauncher 1.29.0 released!</title>
-    <version>1.29.0</version>
-    <url>https://github.com/DocMoebiuz/FlightSimBuilder-Downloads/raw/main/releases/1.29.0/FSBLauncher-Setup.exe</url>
-    <changelog>https://github.com/flightsimbuilder/Flightsimbuilder/releases/tag/1.29.0</changelog>
-    <checksum algorithm="SHA1">2EDFC31D662A3626F1B01DC806891827E8EA274F</checksum>
+  <item version="1.30.0.0">
+    <title>FSBLauncher 1.30.0 released!</title>
+    <version>1.30.0</version>
+    <url>https://github.com/DocMoebiuz/FlightSimBuilder-Downloads/raw/main/releases/1.30.0/FSBLauncher-Setup.exe</url>
+    <changelog>https://github.com/flightsimbuilder/Flightsimbuilder/releases/tag/1.30.0</changelog>
+    <checksum algorithm="SHA1">6EBB185A5470A1778C4D48AF440D04B655368464</checksum>
     <beta>no</beta>
   </item>
 </updates>
