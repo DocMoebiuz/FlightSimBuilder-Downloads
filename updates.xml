@@ -1,19 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
-  <item version="1.31.0.0">
-    <title>FSBLauncher 1.31.0 (BETA) released!</title>
-    <version>1.31.0</version>
-    <url>https://github.com/DocMoebiuz/FlightSimBuilder-Downloads/raw/main/releases/1.31.0/FSBLauncher-Setup.exe</url>
-    <changelog>https://github.com/flightsimbuilder/Flightsimbuilder/releases/tag/1.31.0</changelog>
-    <checksum algorithm="SHA1">154158D0F998698BE67DFBC43FD20C453A5A1BC0</checksum>
-    <beta>yes</beta>
-  </item>
-  <item version="1.30.0.0">
-    <title>FSBLauncher 1.30.0 released!</title>
-    <version>1.30.0</version>
-    <url>https://github.com/DocMoebiuz/FlightSimBuilder-Downloads/raw/main/releases/1.30.0/FSBLauncher-Setup.exe</url>
-    <changelog>https://github.com/flightsimbuilder/Flightsimbuilder/releases/tag/1.30.0</changelog>
-    <checksum algorithm="SHA1">6EBB185A5470A1778C4D48AF440D04B655368464</checksum>
+  <item version="1.32.0.0">
+    <title>FSBLauncher 1.32.0 released!</title>
+    <version>1.32.0</version>
+    <url>https://github.com/DocMoebiuz/FlightSimBuilder-Downloads/raw/main/releases/1.32.0/FSBLauncher-Setup.exe</url>
+    <changelog>https://github.com/flightsimbuilder/Flightsimbuilder/releases/tag/1.32.0</changelog>
+    <checksum algorithm="SHA1">FF727038FE9F6E93342EF9C9B0A3F556D53D1392</checksum>
     <beta>no</beta>
   </item>
 </updates>
