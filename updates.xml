@@ -6,14 +6,6 @@
     <url>https://github.com/DocMoebiuz/FlightSimBuilder-Downloads/raw/main/releases/1.33.0/FSBLauncher-Setup.exe</url>
     <changelog>https://github.com/flightsimbuilder/Flightsimbuilder/releases/tag/1.33.0</changelog>
     <checksum algorithm="SHA1">4613D42F3FFEF0E1F56AC5DC9CF187A73FFD83B2</checksum>
-    <beta>yes</beta>
-  </item>
-  <item version="1.32.0.0">
-    <title>FSBLauncher 1.32.0 released!</title>
-    <version>1.32.0</version>
-    <url>https://github.com/DocMoebiuz/FlightSimBuilder-Downloads/raw/main/releases/1.32.0/FSBLauncher-Setup.exe</url>
-    <changelog>https://github.com/flightsimbuilder/Flightsimbuilder/releases/tag/1.32.0</changelog>
-    <checksum algorithm="SHA1">FF727038FE9F6E93342EF9C9B0A3F556D53D1392</checksum>
     <beta>no</beta>
   </item>
 </updates>
