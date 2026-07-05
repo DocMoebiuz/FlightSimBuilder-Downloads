@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
   <item version="1.33.0.0">
-    <title>FSBLauncher 1.33.0 BETA released!</title>
+    <title>FSBLauncher 1.33.0 released!</title>
     <version>1.33.0</version>
     <url>https://github.com/DocMoebiuz/FlightSimBuilder-Downloads/raw/main/releases/1.33.0/FSBLauncher-Setup.exe</url>
     <changelog>https://github.com/flightsimbuilder/Flightsimbuilder/releases/tag/1.33.0</changelog>
