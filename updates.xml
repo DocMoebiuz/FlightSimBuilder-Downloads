@@ -8,7 +8,7 @@
     <checksum algorithm="SHA1">BA1D8E4531CBB82BE19C012AB5C2A8D7B21F2500</checksum>
     <beta>yes</beta>
   </item>
-    <item version="1.33.0.0">
+  <item version="1.33.0.0">
     <title>FSBLauncher 1.33.0 released!</title>
     <version>1.33.0</version>
     <url>https://github.com/DocMoebiuz/FlightSimBuilder-Downloads/raw/main/releases/1.33.0/FSBLauncher-Setup.exe</url>
