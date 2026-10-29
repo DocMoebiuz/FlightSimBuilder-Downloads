@@ -1,11 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
-  <item version="1.37.0.0">
-    <title>FSBLauncher 1.37.0 released!</title>
-    <version>1.37.0</version>
-    <url>https://github.com/DocMoebiuz/FlightSimBuilder-Downloads/raw/main/releases/1.37.0/FSBLauncher-Setup.exe</url>
-    <changelog>https://github.com/flightsimbuilder/Flightsimbuilder/releases/tag/1.37.0</changelog>
-    <checksum algorithm="SHA1">ED15160D42373ECDBF4C1D21B4E182037C84E807</checksum>
+  <item version="1.38.0.0">
+    <title>FSBLauncher 1.38.0 released!</title>
+    <version>1.38.0</version>
+    <url>https://github.com/DocMoebiuz/FlightSimBuilder-Downloads/raw/main/releases/1.38.0/FSBLauncher-Setup.exe</url>
+    <changelog>https://github.com/flightsimbuilder/Flightsimbuilder/releases/tag/1.38.0</changelog>
+    <checksum algorithm="SHA1">021A2F981846AAE3DA37131407DC0A1960A9074F</checksum>
     <beta>no</beta>
+    <releasenotes>
+      <note type="feature" title="Show styled release notes in overlay">The notification about new available version now displays styled release notes and additional description in an overlay.</note>
+      <note type="improvement" title="Active pause recording">Active pause during flight is now supported and will show correct flight duration on FlightSimSocial.</note>
+    </releasenotes>
   </item>
 </updates>
